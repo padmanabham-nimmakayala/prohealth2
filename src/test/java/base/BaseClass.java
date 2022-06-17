@@ -19,7 +19,7 @@ import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
-import VerifyGUI.TestCase1;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 import pages.LoginPage;
 public class BaseClass {
