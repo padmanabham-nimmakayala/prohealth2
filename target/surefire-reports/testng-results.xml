@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21060" started-at="2022-06-16T17:17:13 IST" finished-at="2022-06-16T17:17:34 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21060" started-at="2022-06-16T17:17:13 IST" finished-at="2022-06-16T17:17:34 IST">
+      <class name="security.TestCase1">
+        <test-method status="PASS" signature="initialisebrowser()[pri:0, instance:security.TestCase1@51f116b8]" name="initialisebrowser" is-config="true" duration-ms="4947" started-at="2022-06-16T17:17:13 IST" finished-at="2022-06-16T17:17:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisebrowser -->
+        <test-method status="PASS" signature="test()[pri:1, instance:security.TestCase1@51f116b8]" name="test" duration-ms="9708" started-at="2022-06-16T17:17:18 IST" finished-at="2022-06-16T17:17:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="selectingsecurityuser()[pri:2, instance:security.TestCase1@51f116b8]" name="selectingsecurityuser" duration-ms="3109" started-at="2022-06-16T17:17:27 IST" finished-at="2022-06-16T17:17:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectingsecurityuser -->
+        <test-method status="PASS" signature="validatingusertable()[pri:3, instance:security.TestCase1@51f116b8]" name="validatingusertable" duration-ms="2991" started-at="2022-06-16T17:17:30 IST" finished-at="2022-06-16T17:17:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingusertable -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:security.TestCase1@51f116b8]" name="teardown" is-config="true" duration-ms="244" started-at="2022-06-16T17:17:33 IST" finished-at="2022-06-16T17:17:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- security.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
